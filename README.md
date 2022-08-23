@@ -1,22 +1,21 @@
-- 👋Hi, I’m @MatheusSamuelVinicius
+<h1>👋Hi, I’m <strong>@MatheusSamuelVinicius</strong></h1>
 
-- 👀 I’m interested in:
-   -Matheus likes XBurguer;
-   -Samuel is interested in music;
-   -Vinicius dont know what he likes;
-
-- 🌱 I’m currently learning:
-   -Matheus is learning the english language;
-   -Samuel is learning psychology;
-   -Vinicius is learning JavaScript;
- 
-- 💞️ I’m looking to collaborate on
-  -Matheus;
-  -Samuel;
-  -Vinicius;
-
+<ul>👀 We're interested in:
+   <li>Matheus likes XBurguer;</li>
+   <li>Samuel is interested in music;</li>
+   <li>Vinicius dont know what he likes.</li>
+</ul>
+<ul>🌱 We're currently learning:
+   <li>Matheus is learning the english language;</li>
+   <li>Samuel is learning psychology;</li>
+   <li>Vinicius is learning JavaScript.</li>
+</ul>
+<ul>💞️ We're looking to collaborate on:
+   <li>Nothing, yet.</li>
+</ul>
 <!---
 MatheusSamuelVinicius/MatheusSamuelVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="dragon.jpeg">
+<img src="dragon.jpeg" width="200px" height="300px">
+<style rel="stylesheet" href="index.css"></style>
