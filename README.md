@@ -21,4 +21,5 @@ You can click the Preview link to take a look at your changes.
 <img src="dragon.jpeg" width="200px" height="300px" alt="Dragon Ball">
 <h2>Samuel</h2>
 <img src="negoNey.jpeg" width="200px" height="300px" alt="Nego Ney Coreano">
-
+<h2>Vinicius</h2>
+<img src="vinicius.jpeg" width="200px" height="300px" alt="Vinicius 13">
