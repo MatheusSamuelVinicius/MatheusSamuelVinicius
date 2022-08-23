@@ -17,5 +17,8 @@
 MatheusSamuelVinicius/MatheusSamuelVinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="negoNey.jpeg" width="20px" height="30px">
-<img src="dragon.jpeg" width="200px" height="300px" align="right">
+<h2>Gabriel</h2>
+<img src="dragon.jpeg" width="200px" height="300px" alt="Dragon Ball">
+<h2>Samuel</h2>
+<img src="negoNey.jpeg" width="200px" height="300px" alt="Nego Ney Coreano">
+
