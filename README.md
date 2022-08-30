@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 <h2>Matheus</h2>
 <img src="dragon.jpeg" width="200px" height="300px" alt="Dragon Ball">
 <h2>Samuel</h2>
-<img src="bolsoshelby.jpg" width="200px" height="300px" alt="Ribamar">
+<img src="bolsoshelby.jpeg" width="200px" height="300px" alt="Ribamar">
 <h2>Vinicius</h2>
 <img src="vinicius.jpeg" width="200px" height="300px" alt="Vinicius 13">
